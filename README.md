@@ -1,3 +1,3 @@
 # hello_world
 
-practicing vhanges to hello world file.
+practicing changes to hello world file.
